@@ -1,0 +1,7 @@
+train: D:/human activity/Human Activity.v3i.yolov8/train/images
+val: D:/human activity/Human Activity.v3i.yolov8/valid/images
+test: D:/human activity/Human Activity.v3i.yolov8/test/images
+
+nc: 23
+names: ['Battery low', 'Cleaning', 'Loitering', 'Mopping', 'checking_bag', 'eating', 'holding_walkiee_talkiee', 'keeping_walkie_talkiee_charging', 'operating_comp', 'patient on stretcher', 'patient on wheel chair', 'searching', 'sitting', 'sitting on Desk', 'sleeping', 'standing', 'stretcher attendant', 'talking', 'triple intersection', 'using_phone', 'walking', 'wheelchair attendant', 'working']
+
